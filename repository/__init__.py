@@ -1,0 +1,2 @@
+from repository.contact_repository import ContactRepository
+from repository.favorites_repository import FavoritesRepository

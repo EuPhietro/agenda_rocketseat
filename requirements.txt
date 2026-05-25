@@ -1,0 +1,7 @@
+markdown-it-py==4.2.0
+mdurl==0.1.2
+peewee==4.0.6
+Pygments==2.20.0
+python-dotenv==1.2.2
+rich==15.0.0
+types-peewee==4.0.5.20260518
